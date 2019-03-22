@@ -87,7 +87,7 @@
                  "gl": "Ciencia e tecnolox\u00EDa"},
              "description": {
                  "es": "Incluye: Innovaci\u00F3n, Investigaci\u00F3n, I/u002BD/u002BI, Telecomunicaciones, Internet y Sociedad de la Informaci\u00F3n.",
-                 "gl": "Incl\u00FAe: Innovaci\u00F3n, Investigaci\u00F3n, I/u002BD/u002BI, Telecomunicaci\u00F3ns, Internet e Sociedade da Informaci\u00F3n.",
+                 "gl": "Incl\u00FAe: Innovaci\u00F3n, Investigaci\u00F3n, I/u002BD/u002BI, Telecomunicaci\u00F3ns, Internet e Sociedade da Informaci\u00F3n."},
              "dcat_ap": "http://publications.europa.eu/resource/authority/data-theme/TECH"
            },
            {
@@ -120,7 +120,7 @@
                  "gl": "Demograf\u00EDa"},
              "description": {
                  "es": "Incluye: Inmigraci\u00F3n y Emigraci\u00F3n, Familia, Mujeres, Infancia, Mayores, Padr\u00F3n.",
-                 "es": "Incl\u00FAe: Inmigraci\u00F3n e Emigraci\u00F3n, Familia, Mulleres, Infancia, Maiores, Padr\u00F3n.",
+                 "gl": "Incl\u00FAe: Inmigraci\u00F3n e Emigraci\u00F3n, Familia, Mulleres, Infancia, Maiores, Padr\u00F3n."},
              "dcat_ap": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
            },
            {
@@ -131,7 +131,7 @@
                  "gl": "Deporte"},
              "description": {
                  "es": "Incluye: Instalaciones deportivas, Federaciones, Competiciones.",
-                 "es": "Incl\u00FAe: Instalaci\u00F3ns deportivas, Federaci\u00F3ns, Competici\u00F3ns.",
+                 "gl": "Incl\u00FAe: Instalaci\u00F3ns deportivas, Federaci\u00F3ns, Competici\u00F3ns."},
              "dcat_ap": "http://publications.europa.eu/resource/authority/data-theme/EDUC"
            },
            {
@@ -219,7 +219,7 @@
                  "gl": "Medio ambiente"},
              "description": {
                  "es": "Incluye: Meteorolog\u00EDa, Geograf\u00EDa, Conservaci\u00F3n fauna y flora.",
-                 "gl": "Incl\u00FAe: Meteorolox\u00EDa, Xeograf\u00EDa, Conservaci\u00F3n fauna e flora.",
+                 "gl": "Incl\u00FAe: Meteorolox\u00EDa, Xeograf\u00EDa, Conservaci\u00F3n fauna e flora."},
              "dcat_ap": "http://publications.europa.eu/resource/authority/data-theme/ENVI"
            },
            {
@@ -230,7 +230,7 @@
                  "gl": "Medio rural"},
              "description": {
                  "es": "Incluye: Agricultura, Ganader\u00EDa, Pesca y Silvicultura.",
-                 "gl": "Incl\u00FAe: Agricultura, Gandeir\u00EDa, Pesca e Silvicultura.",
+                 "gl": "Incl\u00FAe: Agricultura, Gandeir\u00EDa, Pesca e Silvicultura."},
              "dcat_ap": "http://publications.europa.eu/resource/authority/data-theme/AGRI"
            },
            {
@@ -252,7 +252,7 @@
                  "gl": "Sector p\u00FAblico"},
              "description": {
                  "es": "Incluye: Presupuestos, Organigrama institucional, Legislaci\u00F3n interna, Funci\u00F3n p\u00FAblica.",
-                 "gl": "Incl\u00FAe: Orzamentos, Organigrama institucional, Lexislaci\u00F3n interna, Funci\u00F3n p\u00FAblica.",
+                 "gl": "Incl\u00FAe: Orzamentos, Organigrama institucional, Lexislaci\u00F3n interna, Funci\u00F3n p\u00FAblica."},
              "dcat_ap": "http://publications.europa.eu/resource/authority/data-theme/GOVE"
            },
            {
@@ -263,7 +263,7 @@
                  "gl": "Seguridade"},
              "description": {
                  "es": "Incluye: Protecci\u00F3n civil, Defensa.",
-                 "gl": "Incl\u00FAe: Protecci\u00F3n civil, Defensa.",
+                 "gl": "Incl\u00FAe: Protecci\u00F3n civil, Defensa."},
              "dcat_ap": "http://publications.europa.eu/resource/authority/data-theme/JUST"
            },
            {
@@ -274,7 +274,7 @@
                  "gl": "Sociedade e benestar"},
              "description": {
                  "es": "Incluye: Participaci\u00F3n ciudadana, Marginaci\u00F3n, Envejecimiento Activo, Autonom\u00EDa personal y Dependencia, Invalidez, Jubilaci\u00F3n, Seguros y Pensiones, Prestaciones y Subvenciones.",
-                 "gl": "Incl\u00FAe: Participaci\u00F3n cidad\u00E1, Marxinaci\u00F3n, Envellecemento Activo, Autonom\u00EDa persoal e Dependencia, Invalidez, xubilaci\u00F3n, Seguros e Pensi\u00F3ns, Prestaci\u00F3ns e Subvenci\u00F3ns.",
+                 "gl": "Incl\u00FAe: Participaci\u00F3n cidad\u00E1, Marxinaci\u00F3n, Envellecemento Activo, Autonom\u00EDa persoal e Dependencia, Invalidez, xubilaci\u00F3n, Seguros e Pensi\u00F3ns, Prestaci\u00F3ns e Subvenci\u00F3ns."},
              "dcat_ap": "http://publications.europa.eu/resource/authority/data-theme/SOCI"
            },
            {
@@ -285,7 +285,7 @@
                  "gl": "Transporte"},
              "description": {
                  "es": "Incluye: Comunicaciones y Tr\u00E1fico.",
-                 "gl": "Incl\u00FAe: Comunicaci\u00F3ns e Tr\u00E1fico.",
+                 "gl": "Incl\u00FAe: Comunicaci\u00F3ns e Tr\u00E1fico."},
              "dcat_ap": "http://publications.europa.eu/resource/authority/data-theme/TRAN"
            },
            {
@@ -296,7 +296,7 @@
                  "gl": "Turismo"},
              "description": {
                  "es": "Incluye: Alojamientos, Hosteler\u00EDa, Gastronom\u00EDa.",
-                 "gl": "Incl\u00FAe: Aloxamentos, Hostaler\u00EDa, Gastronom\u00EDa.",
+                 "gl": "Incl\u00FAe: Aloxamentos, Hostaler\u00EDa, Gastronom\u00EDa."},
              "dcat_ap": "http://publications.europa.eu/resource/authority/data-theme/ECON"
            },
            {
@@ -307,7 +307,7 @@
                  "gl": "Urbanismo e infraestruturas"},
              "description": {
                  "es": "Incluye: Saneamiento p\u00FAblico, Construcci\u00F3n (infraestructuras, equipamientos p\u00FAblicos).",
-                 "gl": "Incl\u00FAe: Saneamento p\u00FAblico, Construci\u00F3n (infraestruturas, equipamentos p\u00FAblicos).",
+                 "gl": "Incl\u00FAe: Saneamento p\u00FAblico, Construci\u00F3n (infraestruturas, equipamentos p\u00FAblicos)."},
              "dcat_ap": "http://publications.europa.eu/resource/authority/data-theme/REGI"
            },
            {
@@ -318,7 +318,7 @@
                  "gl": "Vivenda"},
              "description": {
                  "es": "Incluye: Mercado inmobiliario, Construcci\u00F3n (viviendas).",
-                 "gl": "Incl\u00FAe: Mercado inmobiliario, Construci\u00F3n (vivendas).",
+                 "gl": "Incl\u00FAe: Mercado inmobiliario, Construci\u00F3n (vivendas)."},
              "dcat_ap": "http://publications.europa.eu/resource/authority/data-theme/REGI"
            }
         ]
@@ -506,7 +506,7 @@
            "gl": "Ex: http://organismo.es/leyA"},
         "help_text": {
             "es": "Enlaces a la normativa relativa al conjunto de datos. Es un enlace a un documento legal.",
-            "gl": "Ligaz\u00F3ns \u00E1 normativa relativa ao conxunto de datos. É unha ligaz\u00F3n a un documento legal."},
+            "gl": "Ligaz\u00F3ns \u00E1 normativa relativa ao conxunto de datos. \u00C9 unha ligaz\u00F3n a un documento legal."},
         "preset": "csc_multiple_uri_text",
         "is_url": true
       },
@@ -533,7 +533,7 @@
             "gl": "Organismo encargado de publicar e xestionar o conxunto de datos no portal."},
         "visibility_help_text": {
             "es": "Marque privado si todav\u00EDa no desea que el conjunto de datos est\u00E9 disponible para el p\u00FAblico",
-            "gl": "Escolla privado se a\u00EDnda non desexa que o conjunto de datos estea dispoñible para o p\u00FAblico"},
+            "gl": "Escolla privado se a\u00EDnda non desexa que o conjunto de datos estea dispo\u00F1ible para o p\u00FAblico"},
         "required": true,
         "preset": "dataset_organization"
       }
